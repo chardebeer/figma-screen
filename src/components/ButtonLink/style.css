@@ -1,0 +1,73 @@
+.button-link {
+  align-items: flex-start;
+  display: flex;
+  gap: 4px;
+  position: relative;
+  width: fit-content;
+}
+
+.button-link .div {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.button-link .link-label {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.button-link .element-2 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.button-link .size-large {
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 28.8px;
+}
+
+.button-link .size-small {
+  font-size: 14px;
+  letter-spacing: -0.14px;
+  line-height: 16.8px;
+}
+
+.button-link .size-0-large {
+  font-size: 18px;
+  letter-spacing: -0.18px;
+  line-height: 28.8px;
+}
+
+.button-link .size-0-small {
+  font-size: 14px;
+  letter-spacing: -0.14px;
+  line-height: 16.8px;
+}
+
+.button-link .size-1-large {
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 28.8px;
+}
+
+.button-link .size-1-small {
+  font-size: 14px;
+  letter-spacing: -0.14px;
+  line-height: 16.8px;
+}

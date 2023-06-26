@@ -1,0 +1,13 @@
+.icon-envelope {
+  height: 20px;
+  position: relative;
+  width: 20px;
+}
+
+.icon-envelope .icon {
+  height: 14px;
+  left: 1px;
+  position: absolute;
+  top: 3px;
+  width: 18px;
+}

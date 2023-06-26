@@ -1,0 +1,31 @@
+.button-link-nav {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  height: 29px;
+  position: relative;
+  width: fit-content;
+}
+
+.button-link-nav .label-text {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: -0.18px;
+  line-height: 28.8px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.button-link-nav .active-indicator {
+  background-color: #000000;
+  border-radius: 2.5px;
+  height: 5px;
+  margin-bottom: -11px;
+  min-width: 5px;
+  position: relative;
+}

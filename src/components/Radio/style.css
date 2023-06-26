@@ -1,0 +1,39 @@
+.radio {
+  align-items: center;
+  display: flex;
+  gap: 8px;
+  position: relative;
+  width: fit-content;
+}
+
+.radio .d-control-radio {
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 10px;
+  height: 20px;
+  min-width: 20px;
+  position: relative;
+}
+
+.radio .ellipse {
+  background-color: #000000;
+  border-radius: 7px;
+  height: 14px;
+  left: 2px;
+  position: relative;
+  top: 2px;
+  width: 14px;
+}
+
+.radio .text {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: -0.18px;
+  line-height: 28.8px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}

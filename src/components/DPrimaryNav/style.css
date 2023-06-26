@@ -1,0 +1,16 @@
+.d-primary-nav {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  padding: 60px 112px 0px;
+  position: relative;
+  width: 1440px;
+}
+
+.d-primary-nav .menu-items-and-cart {
+  align-items: center;
+  display: flex;
+  gap: 32px;
+  position: relative;
+  width: fit-content;
+}
